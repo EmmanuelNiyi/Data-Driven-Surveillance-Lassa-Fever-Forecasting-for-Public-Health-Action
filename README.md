@@ -1,6 +1,4 @@
-# Project Name
-
-**Data-Driven Surveillance: Lassa Fever Forecasting for Public Health Action**  
+# **Data-Driven Surveillance: Lassa Fever Forecasting for Public Health Action**  
 
 ## Description
 
