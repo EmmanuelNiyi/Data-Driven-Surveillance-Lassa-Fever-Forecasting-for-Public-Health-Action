@@ -45,7 +45,6 @@ This project demonstrates how data-driven tools can support surveillance and ear
 ---
 
 ## Dataset
-[Link text](https://example.com)
 - **Source:** [NCDC Lassa Fever Timeseries (2020–2025)](https://www.kaggle.com/datasets/emmanuelniyioriolowo/ncdc-lassa-fever-timeseries-20202025)
 - **Description:** Weekly confirmed Lassa fever case counts extracted from official NCDC situation reports.
 - **Frequency:** Weekly
@@ -70,7 +69,10 @@ lassa-forecasting/
 │   └── 05_ml_models_xgboost.ipynb
 │
 ├── plots/                       # Figures: seasonality, forecasts, SHAP, etc.
-├── requirements.txt
+│   ├── eda models
+│   ├── baseline models
+│   ├── classical models
+│   ├── machine learning models
 └── README.md
 ```
 

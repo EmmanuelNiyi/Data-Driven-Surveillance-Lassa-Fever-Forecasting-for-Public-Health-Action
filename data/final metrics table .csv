@@ -1,0 +1,9 @@
+Model,MAE,RMSE,MAPE
+Naive,16.33,26.37,60.3
+Average,16.2,20.94,129.03
+Drift,17.69,27.12,69.84
+Seasonal Naive,8.74,15.53,49.24
+Seasonal Mean,7.91,12.25,44.11
+ETS,8.06,12.79,43.9
+SARIMA,7.64,12.45,44.46
+XGB (52 lags + rolling),5.9,8.36,33.28
