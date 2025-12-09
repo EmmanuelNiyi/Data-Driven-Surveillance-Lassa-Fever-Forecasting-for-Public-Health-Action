@@ -45,8 +45,8 @@ This project demonstrates how data-driven tools can support surveillance and ear
 ---
 
 ## Dataset
-
-- **Source:** NCDC — https://www.kaggle.com/datasets/emmanuelniyioriolowo/ncdc-lassa-fever-timeseries-20202025
+[Link text](https://example.com)
+- **Source:** [NCDC Lassa Fever Timeseries (2020–2025)](https://www.kaggle.com/datasets/emmanuelniyioriolowo/ncdc-lassa-fever-timeseries-20202025)
 - **Description:** Weekly confirmed Lassa fever case counts extracted from official NCDC situation reports.
 - **Frequency:** Weekly
 - **Period covered:** January 2020 — December 2025
