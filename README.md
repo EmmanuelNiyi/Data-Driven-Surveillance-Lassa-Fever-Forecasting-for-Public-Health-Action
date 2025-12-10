@@ -1,6 +1,6 @@
 📈 **Data-Driven Surveillance: Lassa Fever Forecasting for Public Health Action**
 ---
-
+![4 week rolling mean .png](plots%2F1%20eda%2F4%20week%20rolling%20mean%20.png)
 ## Table of Contents
 
 - Project Overview
